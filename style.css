@@ -2974,6 +2974,26 @@ article .more-link a:hover:after {
   width: 30%;
   padding: 5px;
   padding-left: 30px;
+  margin-bottom: 15px;
 }
 
-/* Clear floats after image containers */
+.categories{
+	 float: left;
+  width: 30%;
+  padding: 5px;
+  padding-left: 30px;
+}
+.advanced{ 
+
+	float: left;
+  width: 50%;
+  padding: 5px;
+  padding-left: 30px;
+}
+
+.board{
+	float: left;
+  width: 100%;
+  padding: 5px;
+  padding-left: 30px;
+}
